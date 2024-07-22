@@ -1,0 +1,29 @@
+.servises {
+   
+    padding: 30px 0;
+    margin-bottom: 25%;
+}
+.servises .servise:hover {
+    transform: translateY(-5px);
+}
+.servises .servise {
+    float: left;
+    width: 23%;
+    height: 300px;
+    margin: 1%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.servises .servise img {
+    height: 100px;
+}
+
+.servises .servise h2 {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.servises .servise p {
+    color: #777;
+}
